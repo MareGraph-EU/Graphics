@@ -4,196 +4,17 @@
 <svg
    version="1.1"
    id="svg132"
-   width="500"
-   height="500"
-   viewBox="0 0 500 500"
+   width="400"
+   height="400"
+   viewBox="0 0 399.99999 400.00001"
    sodipodi:docname="MareGraph_v1.svg"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs136">
-    <rect
-       x="57.970137"
-       y="348.49489"
-       width="401.07246"
-       height="37.073925"
-       id="rect35813" />
-    <rect
-       x="-66.79168"
-       y="412.39979"
-       width="718.39888"
-       height="92.421045"
-       id="rect28817" />
-    <rect
-       x="324.05386"
-       y="354.94615"
-       width="24.587744"
-       height="40.349119"
-       id="rect25791" />
-    <rect
-       x="105.28598"
-       y="300.72702"
-       width="320.90158"
-       height="52.958218"
-       id="rect25735" />
-    <inkscape:path-effect
-       effect="bspline"
-       id="path-effect6354"
-       is_visible="true"
-       lpeversion="1"
-       weight="33.333333"
-       steps="2"
-       helper_size="0"
-       apply_no_weight="true"
-       apply_with_weight="true"
-       only_selected="false" />
-    <inkscape:path-effect
-       effect="bspline"
-       id="path-effect6234"
-       is_visible="true"
-       lpeversion="1"
-       weight="33.333333"
-       steps="2"
-       helper_size="0"
-       apply_no_weight="true"
-       apply_with_weight="true"
-       only_selected="false" />
-    <inkscape:path-effect
-       effect="bspline"
-       id="path-effect5814"
-       is_visible="true"
-       lpeversion="1"
-       weight="33.333333"
-       steps="2"
-       helper_size="0"
-       apply_no_weight="true"
-       apply_with_weight="true"
-       only_selected="false" />
-    <inkscape:path-effect
-       effect="bspline"
-       id="path-effect5810"
-       is_visible="true"
-       lpeversion="1"
-       weight="33.333333"
-       steps="2"
-       helper_size="0"
-       apply_no_weight="true"
-       apply_with_weight="true"
-       only_selected="false" />
-    <inkscape:path-effect
-       effect="bspline"
-       id="path-effect5806"
-       is_visible="true"
-       lpeversion="1"
-       weight="33.333333"
-       steps="2"
-       helper_size="0"
-       apply_no_weight="true"
-       apply_with_weight="true"
-       only_selected="false" />
-    <inkscape:path-effect
-       effect="bspline"
-       id="path-effect5802"
-       is_visible="true"
-       lpeversion="1"
-       weight="33.333333"
-       steps="2"
-       helper_size="0"
-       apply_no_weight="true"
-       apply_with_weight="true"
-       only_selected="false" />
-    <inkscape:path-effect
-       effect="bspline"
-       id="path-effect5798"
-       is_visible="true"
-       lpeversion="1"
-       weight="33.333333"
-       steps="2"
-       helper_size="0"
-       apply_no_weight="true"
-       apply_with_weight="true"
-       only_selected="false" />
-    <inkscape:path-effect
-       effect="bspline"
-       id="path-effect5794"
-       is_visible="true"
-       lpeversion="1"
-       weight="33.333333"
-       steps="2"
-       helper_size="0"
-       apply_no_weight="true"
-       apply_with_weight="true"
-       only_selected="false" />
-    <inkscape:path-effect
-       effect="bspline"
-       id="path-effect5790"
-       is_visible="true"
-       lpeversion="1"
-       weight="33.333333"
-       steps="2"
-       helper_size="0"
-       apply_no_weight="true"
-       apply_with_weight="true"
-       only_selected="false" />
-    <inkscape:path-effect
-       effect="bspline"
-       id="path-effect5786"
-       is_visible="true"
-       lpeversion="1"
-       weight="33.333333"
-       steps="2"
-       helper_size="0"
-       apply_no_weight="true"
-       apply_with_weight="true"
-       only_selected="false" />
-    <inkscape:path-effect
-       effect="bspline"
-       id="path-effect5782"
-       is_visible="true"
-       lpeversion="1"
-       weight="33.333333"
-       steps="2"
-       helper_size="0"
-       apply_no_weight="true"
-       apply_with_weight="true"
-       only_selected="false" />
-    <inkscape:path-effect
-       effect="bspline"
-       id="path-effect310"
-       is_visible="true"
-       lpeversion="1"
-       weight="33.333333"
-       steps="2"
-       helper_size="0"
-       apply_no_weight="true"
-       apply_with_weight="true"
-       only_selected="false" />
-    <inkscape:path-effect
-       effect="bspline"
-       id="path-effect306"
-       is_visible="true"
-       lpeversion="1"
-       weight="33.333333"
-       steps="2"
-       helper_size="0"
-       apply_no_weight="true"
-       apply_with_weight="true"
-       only_selected="false" />
-    <inkscape:path-effect
-       effect="bspline"
-       id="path-effect302"
-       is_visible="true"
-       lpeversion="1"
-       weight="33.333333"
-       steps="2"
-       helper_size="0"
-       apply_no_weight="true"
-       apply_with_weight="true"
-       only_selected="false" />
-  </defs>
+     id="defs136" />
   <sodipodi:namedview
      id="namedview134"
      pagecolor="#ffffff"
@@ -205,21 +26,27 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="1.4835225"
-     inkscape:cx="423.65385"
-     inkscape:cy="201.54734"
-     inkscape:window-width="2217"
-     inkscape:window-height="1358"
-     inkscape:window-x="749"
-     inkscape:window-y="121"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="g138" />
+     inkscape:cx="14.829569"
+     inkscape:cy="158.06973"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g138"
+     inkscape:pageshadow="2"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <g
      inkscape:groupmode="layer"
      inkscape:label="Image"
-     id="g138">
+     id="g138"
+     transform="translate(-301.84013,-72.008665)">
     <g
        id="g25679"
-       transform="translate(53.192684,0.13817802)">
+       transform="translate(314.37855,55.578112)">
       <path
          style="opacity:0.95;fill:#081236;fill-opacity:1;fill-rule:evenodd;stroke:#003869;stroke-width:0.234331;stroke-linecap:round;stroke-opacity:1;paint-order:markers stroke fill"
          d="m 115.76815,194.05136 c -0.22257,0.41973 0.0736,1.90073 0.51801,3.57924 0.44438,1.67852 1.03677,3.55442 1.45638,4.91201 0.4196,1.3576 0.66643,2.19681 1.0615,3.15948 0.39506,0.96267 0.93809,2.04872 1.23403,2.91258 0.29594,0.86386 0.34531,1.50562 0.96248,1.43095 0.61717,-0.0747 1.80195,-0.86453 2.93729,-1.77775 1.13534,-0.91323 2.2214,-1.94992 3.18398,-3.03591 0.96259,-1.08598 1.80181,-2.2214 2.51761,-3.3074 0.71579,-1.08601 1.30818,-2.12269 1.65374,-2.789 0.34556,-0.66631 0.4443,-0.96251 -0.19695,-1.0369 -0.64124,-0.0744 -2.02348,0.0737 -3.23282,-0.0248 -1.20934,-0.0985 -2.24602,-0.44405 -3.50489,-0.88833 -1.25886,-0.44429 -2.73984,-0.98731 -3.92466,-1.38231 -1.18482,-0.39499 -2.07341,-0.64182 -2.88803,-1.08583 -0.81462,-0.44401 -1.5551,-1.08577 -1.77767,-0.66603 z"
@@ -321,59 +148,38 @@
          d="m 231.59921,140.06331 -22.46186,21.39629 23.17117,-20.96142 z"
          id="path6360-8-1" />
     </g>
-    <path
-       style="opacity:0.95;fill:#003869;fill-opacity:0.952941;fill-rule:evenodd;stroke:#003968;stroke-width:0.409508;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:0.909804;paint-order:markers stroke fill"
-       d=""
-       id="path7703" />
-    <text
-       xml:space="preserve"
-       id="text25733"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.6201px;line-height:0px;font-family:sans-serif;-inkscape-font-specification:sans-serif;white-space:pre;shape-inside:url(#rect25735);display:inline;opacity:0.95;fill:#081236;fill-opacity:0.0117647;fill-rule:evenodd;stroke:#081236;stroke-width:4.1915;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-       transform="matrix(0.98748122,0,0,3.7397086,3.2529397,-779.99123)"><tspan
-         x="105.28516"
-         y="310.9613"
-         id="tspan35935">
-</tspan><tspan
-         x="105.28516"
-         y="310.9613"
-         id="tspan35937"> </tspan></text>
-    <text
-       xml:space="preserve"
-       id="text25789"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.6201px;line-height:0px;font-family:sans-serif;-inkscape-font-specification:sans-serif;white-space:pre;shape-inside:url(#rect25791);display:inline;opacity:0.95;fill:#081236;fill-opacity:0.0117647;fill-rule:evenodd;stroke:#081236;stroke-width:4.1915;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;line-height:32.985px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:7.13px;opacity:0.95;fill:#081236;fill-opacity:0.0117647;fill-rule:evenodd;stroke:#081236;stroke-width:0.5;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-       x="116.61469"
-       y="303.82343"
+       x="501.85104"
+       y="365.15668"
        id="text28807"><tspan
          sodipodi:role="line"
          id="tspan28805"
-         x="116.61469"
-         y="303.82343"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;font-family:Georgia;-inkscape-font-specification:Georgia;fill:#081236;fill-opacity:0.983923;stroke:#081236;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:0.980707">MareGraph</tspan></text>
+         x="505.41605"
+         y="365.15668"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:center;text-anchor:middle;fill:#081236;fill-opacity:0.983923;stroke:#081236;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:0.980707"
+         dx="0">MareGraph</tspan></text>
     <text
        xml:space="preserve"
-       id="text28815"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;line-height:0px;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-position:super;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect28817);display:inline;opacity:0.95;fill:#081236;fill-opacity:0.983923;fill-rule:evenodd;stroke:#081236;stroke-width:0.5;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:0.980707;paint-order:markers stroke fill" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.0921px;line-height:0px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:1.96381px;word-spacing:0.29px;white-space:pre;inline-size:1041.42;display:inline;opacity:0.95;fill:#081236;fill-opacity:0.983923;fill-rule:evenodd;stroke:#081236;stroke-width:0;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:0.980707;paint-order:markers stroke fill"
-       x="912.95752"
-       y="406.7243"
-       id="text28811"
-       transform="matrix(0.99999064,0,0,1.0372067,-1177.4077,-85.311226)" />
-    <text
-       xml:space="preserve"
-       id="text35811"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:0px;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-position:super;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:1.54px;white-space:pre;shape-inside:url(#rect35813);display:inline;opacity:0.95;fill:#081236;fill-opacity:0.983923;fill-rule:evenodd;stroke:#081236;stroke-width:0;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:0.980707;paint-order:markers stroke fill"
-       transform="translate(0,-20.222141)"><tspan
-         x="69.291653"
-         y="352.1904"
-         id="tspan35939">Towards an Interoperable Marine Knowledge Graph</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1;font-family:georgia;-inkscape-font-specification:georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="503.89093"
+       y="395.15628"
+       id="text18541"><tspan
+         sodipodi:role="line"
+         id="tspan18539"
+         x="503.89093"
+         y="395.15628"
+         style="font-size:24px;text-align:center;text-anchor:middle;fill:#081236;fill-opacity:0.984314">Towards an Interoperable </tspan><tspan
+         sodipodi:role="line"
+         x="503.89093"
+         y="419.15628"
+         id="tspan21813"
+         style="font-size:24px;text-align:center;text-anchor:middle;fill:#081236;fill-opacity:0.984314">Marine Knowledge Graph</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer1"
-     inkscape:label="Image 1" />
+     inkscape:label="Image 1"
+     transform="translate(-301.84013,-72.008665)" />
 </svg>
